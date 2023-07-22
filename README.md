@@ -1,6 +1,7 @@
 # simple_fs
 
-(The project is in progress, as there are some bugs :( )
+(The project is in progress, as there are some bugs)
+
 The driver code and the code for disk simulation was taken from: https://www.cse.iitb.ac.in/~mythili/os/
 
 The objective of this project was to create a lightweight and efficient 
